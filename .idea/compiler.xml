@@ -9,6 +9,6 @@
         <module name="iosautomacao" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="9" />
   </component>
 </project>
